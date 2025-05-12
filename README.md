@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🇷🇺 Русская версия
 
-<!--
-**BogomolovKirill/BogomolovKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет! 👋  
+Меня зовут **Кирилл Богомолов**, я **Python backend-разработчик**.
 
-Here are some ideas to get you started:
+### 🛠️ Текущая работа
+Разработка Телеграмм ботов и RESTAPI для малого и крупного бизнесса
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 GitHub
+Большинство коммерческих проектов находятся в **GitHub** (репозитории закрытые, но можно обсудить опыт)
+
+### 📫 Контакты
+- **Почта:** bogomolovkir@bk.ru  
+- **Telegram:** [@kirill_ofc](https://t.me/kirill_ofc)  
+- **GitHub:** [BogomolovKirill](https://github.com/BogomolovKirill)
+
+---
+
+# 🇬🇧 English version
+# Hello there! 👋  
+My name is **Kirill Bogomolov**, and I'm a **Python backend developer**.
+
+### 🛠️ Current Work
+Development of Telegram bots and REST APIs for small and large businesses.
+
+### 📁 GitHub
+Most of my commercial projects are hosted on **GitHub** (repositories are private, but I’m happy to discuss my experience).
+
+### 📫 Contact Me
+- **Email:** bogomolovkir@bk.ru  
+- **Telegram:** [@kirill_ofc](https://t.me/kirill_ofc)  
+- **GitHub:** [BogomolovKirill](https://github.com/BogomolovKirill)
+
