@@ -1,5 +1,3 @@
-# 🇷🇺 Русская версия
-
 # Привет! 👋  
 Меня зовут **Кирилл Богомолов**, я **Python backend-разработчик**.
 
@@ -16,7 +14,6 @@
 
 ---
 
-# 🇬🇧 English version
 # Hello there! 👋  
 My name is **Kirill Bogomolov**, and I'm a **Python backend developer**.
 
