@@ -1,6 +1,3 @@
-# Привет! 👋  
-Меня зовут **Кирилл Богомолов**, я **Python backend-разработчик**.
-
 ### 🛠️ Текущая работа
 Разработка Телеграмм ботов и REST API для малого и крупного бизнесса
 
@@ -13,9 +10,6 @@
 - **GitHub:** [BogomolovKirill](https://github.com/BogomolovKirill)
 
 ---
-
-# Hello there! 👋  
-My name is **Kirill Bogomolov**, and I'm a **Python backend developer**.
 
 ### 🛠️ Current Work
 Development of Telegram bots and REST API for small and large businesses.
